@@ -2,7 +2,7 @@
 @name YouTube Everforest
 @namespace github.com/adityaaparadh/everforest-userstyles/styles/youtube
 @homepageURL https://github.com/adityaaparadh/everforest-userstyles/tree/main/styles/youtube
-@version 2026.02.18.1
+@version 2026.04.09
 @updateURL https://github.com/adityaaparadh/everforest-userstyles/raw/main/styles/youtube/catppuccin.user.less
 @supportURL https://github.com/adityaaparadh/everforest-userstyles/issues?q=is%3Aopen+is%3Aissue+label%3Ayoutube
 @description Warm forest theme for YouTube
@@ -355,7 +355,7 @@
 
     & when (@hideColorSampleTint = 1) {
       // Thumbnail/video preview hover effect
-      .yt-spec-touch-feedback-shape__hover-effect {
+      .ytSpecTouchFeedbackShapeHoverEffect {
         background-color: @surface0 !important;
       }
       // Video description background (collapsed on hover)
@@ -541,15 +541,14 @@
       }
     }
 
-    .yt-spec-icon-badge-shape--style-overlay .yt-spec-icon-badge-shape__icon,
-    .yt-spec-icon-badge-shape {
+    /* Notifications Bell and Indicator */
+    .ytSpecIconBadgeShapeStyleOverlay .ytSpecIconBadgeShapeIcon,
+    .ytSpecIconBadgeShapeBadge {
       color: @text;
     }
-
-    .yt-spec-icon-badge-shape--type-notification
-      .yt-spec-icon-badge-shape__badge {
+    .ytSpecIconBadgeShapeTypeNotification .ytSpecIconBadgeShapeBadge {
       background-color: @accent;
-      color: @surface0;
+      color: @base;
     }
 
     /* Buttons */
