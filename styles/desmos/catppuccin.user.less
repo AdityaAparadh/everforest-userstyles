@@ -2,7 +2,7 @@
 @name Desmos Everforest
 @namespace github.com/adityaaparadh/everforest-userstyles/styles/desmos
 @homepageURL https://github.com/adityaaparadh/everforest-userstyles/tree/main/styles/desmos
-@version 2026.08.16
+@version 2026.09.04
 @updateURL https://github.com/adityaaparadh/everforest-userstyles/raw/main/styles/desmos/catppuccin.user.less
 @supportURL https://github.com/adityaaparadh/everforest-userstyles/issues?q=is%3Aopen+is%3Aissue+label%3Adesmos
 @description Warm forest theme for Desmos
@@ -1311,6 +1311,12 @@
     /* line numbers */
     .dcg-num {
       color: @text;
+    }
+
+    /* Banner (e.g. "Saving, sharing, and signing in will be temporarily disabled...") */
+    .dcg-header-container .dcg-top-banner {
+      color: @text;
+      background-color: @base;
     }
   }
 }
