@@ -2,7 +2,7 @@
 @name YouTube Everforest
 @namespace github.com/adityaaparadh/everforest-userstyles/styles/youtube
 @homepageURL https://github.com/adityaaparadh/everforest-userstyles/tree/main/styles/youtube
-@version 2026.08.16
+@version 2026.10.22
 @updateURL https://github.com/adityaaparadh/everforest-userstyles/raw/main/styles/youtube/catppuccin.user.less
 @supportURL https://github.com/adityaaparadh/everforest-userstyles/issues?q=is%3Aopen+is%3Aissue+label%3Ayoutube
 @description Warm forest theme for YouTube
@@ -1088,13 +1088,10 @@
       color: @subtext0 !important;
     }
     // Badges (e.g. "CC", "New")
+    .ytBadgeShapeThumbnailSpecial,
     .ytBadgeShapeDefault {
-      color: @subtext0;
-      background: @surface1;
-
-      &.ytBadgeShapeModern {
-        background: none;
-      }
+      color: @base;
+      background: @accent;
     }
     // "Fundraiser"
     .ytBadgeShapeCommerce {
