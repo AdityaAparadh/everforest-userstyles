@@ -75,6 +75,7 @@ collaborators:
   - &koibtw koibtw
   - &TheAnonymousCrusher TheAnonymousCrusher
   - &42willow 42willow
+  - &Papweer Papweer
 
 userstyles:
   advent-of-code:
@@ -710,6 +711,12 @@ userstyles:
     color: peach
     current-maintainers: [*Guaxinim5573]
     past-maintainers: [*Stonks3141]
+  pcpartpicker:
+    name: PCPartPicker
+    link: https://pcpartpicker.com
+    categories: [productivity, discussion_forum]
+    color: peach
+    current-maintainers: [*Papweer]
   perplexity:
     name: Perplexity
     link: https://www.perplexity.ai
@@ -873,6 +880,13 @@ userstyles:
     icon: snapchat
     color: yellow
     current-maintainers: [*itzTheMeow]
+  snips-sh:
+    name: snips.sh
+    link: https://snips.sh
+    categories: [development]
+    color: blue
+    note: Accent color appearance options are overriden by this userstyle.
+    current-maintainers: [*42willow]
   spotify-web:
     name: Spotify Web
     link: https://open.spotify.com
