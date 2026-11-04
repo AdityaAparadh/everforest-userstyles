@@ -34,9 +34,9 @@
 Based on <a href="https://github.com/catppuccin/userstyles/tree/main/styles/lingva">Catppuccin Lingva userstyle</a> by:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-<a href="https://github.com/rubyowo" target="_blank" style="text-decoration: none;">
-<img src="https://github.com/rubyowo.png?size=80" width="80" height="80" style="border-radius: 50%; display: block; margin: 0 auto;" alt="rubyowo"/>
-<div style="text-align: center; font-weight: bold; color: #a7c080;">rubyowo</div>
+<a href="https://github.com/rei284" target="_blank" style="text-decoration: none;">
+<img src="https://github.com/rei284.png?size=80" width="80" height="80" style="border-radius: 50%; display: block; margin: 0 auto;" alt="rei284"/>
+<div style="text-align: center; font-weight: bold; color: #a7c080;">rei284</div>
 </a>
 </div>
 

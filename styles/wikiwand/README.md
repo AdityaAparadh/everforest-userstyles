@@ -34,9 +34,9 @@
 Based on <a href="https://github.com/catppuccin/userstyles/tree/main/styles/wikiwand">Catppuccin Wikiwand userstyle</a> by:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-<a href="https://github.com/Tnixc" target="_blank" style="text-decoration: none;">
-<img src="https://github.com/Tnixc.png?size=80" width="80" height="80" style="border-radius: 50%; display: block; margin: 0 auto;" alt="Tnixc"/>
-<div style="text-align: center; font-weight: bold; color: #a7c080;">Tnixc</div>
+<a href="https://github.com/enocla" target="_blank" style="text-decoration: none;">
+<img src="https://github.com/enocla.png?size=80" width="80" height="80" style="border-radius: 50%; display: block; margin: 0 auto;" alt="enocla"/>
+<div style="text-align: center; font-weight: bold; color: #a7c080;">enocla</div>
 </a>
 </div>
 

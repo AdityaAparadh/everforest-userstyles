@@ -34,9 +34,9 @@
 Based on <a href="https://github.com/catppuccin/userstyles/tree/main/styles/scalar">Catppuccin Scalar userstyle</a> by:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-<a href="https://github.com/incognitotgt" target="_blank" style="text-decoration: none;">
-<img src="https://github.com/incognitotgt.png?size=80" width="80" height="80" style="border-radius: 50%; display: block; margin: 0 auto;" alt="incognitotgt"/>
-<div style="text-align: center; font-weight: bold; color: #a7c080;">incognitotgt</div>
+<a href="https://github.com/0mhx" target="_blank" style="text-decoration: none;">
+<img src="https://github.com/0mhx.png?size=80" width="80" height="80" style="border-radius: 50%; display: block; margin: 0 auto;" alt="0mhx"/>
+<div style="text-align: center; font-weight: bold; color: #a7c080;">0mhx</div>
 </a>
 </div>
 

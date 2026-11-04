@@ -34,9 +34,9 @@
 Based on <a href="https://github.com/catppuccin/userstyles/tree/main/styles/bsky">Catppuccin Bluesky Social userstyle</a> by:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-<a href="https://github.com/RoootTheFox" target="_blank" style="text-decoration: none;">
-<img src="https://github.com/RoootTheFox.png?size=80" width="80" height="80" style="border-radius: 50%; display: block; margin: 0 auto;" alt="RoootTheFox"/>
-<div style="text-align: center; font-weight: bold; color: #a7c080;">RoootTheFox</div>
+<a href="https://github.com/marlenemeows" target="_blank" style="text-decoration: none;">
+<img src="https://github.com/marlenemeows.png?size=80" width="80" height="80" style="border-radius: 50%; display: block; margin: 0 auto;" alt="marlenemeows"/>
+<div style="text-align: center; font-weight: bold; color: #a7c080;">marlenemeows</div>
 </a>
 </div>
 

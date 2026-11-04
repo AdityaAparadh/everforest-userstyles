@@ -34,9 +34,9 @@
 Based on <a href="https://github.com/catppuccin/userstyles/tree/main/styles/quizlet">Catppuccin Quizlet userstyle</a> by:
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-<a href="https://github.com/spaghettiosareyummy" target="_blank" style="text-decoration: none;">
-<img src="https://github.com/spaghettiosareyummy.png?size=80" width="80" height="80" style="border-radius: 50%; display: block; margin: 0 auto;" alt="spaghettiosareyummy"/>
-<div style="text-align: center; font-weight: bold; color: #a7c080;">spaghettiosareyummy</div>
+<a href="https://github.com/brandonbowdoin" target="_blank" style="text-decoration: none;">
+<img src="https://github.com/brandonbowdoin.png?size=80" width="80" height="80" style="border-radius: 50%; display: block; margin: 0 auto;" alt="brandonbowdoin"/>
+<div style="text-align: center; font-weight: bold; color: #a7c080;">brandonbowdoin</div>
 </a>
 </div>
 

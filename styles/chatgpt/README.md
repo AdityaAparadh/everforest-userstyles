@@ -38,9 +38,9 @@ Based on <a href="https://github.com/catppuccin/userstyles/tree/main/styles/chat
 <img src="https://github.com/uncenter.png?size=80" width="80" height="80" style="border-radius: 50%; display: block; margin: 0 auto;" alt="uncenter"/>
 <div style="text-align: center; font-weight: bold; color: #a7c080;">uncenter</div>
 </a>
-<a href="https://github.com/rubyowo" target="_blank" style="text-decoration: none; opacity: 0.7;">
-<img src="https://github.com/rubyowo.png?size=80" width="80" height="80" style="border-radius: 50%; display: block; margin: 0 auto;" alt="rubyowo"/>
-<div style="text-align: center; font-weight: bold; color: #a7c080;">rubyowo</div>
+<a href="https://github.com/rei284" target="_blank" style="text-decoration: none; opacity: 0.7;">
+<img src="https://github.com/rei284.png?size=80" width="80" height="80" style="border-radius: 50%; display: block; margin: 0 auto;" alt="rei284"/>
+<div style="text-align: center; font-weight: bold; color: #a7c080;">rei284</div>
 </a>
 </div>
 
